@@ -1,5 +1,5 @@
 # Spotify-clone
 This is a clone of spotify website.
-# develpoer
+# Develpoer
 Harsh Tanwar
 
